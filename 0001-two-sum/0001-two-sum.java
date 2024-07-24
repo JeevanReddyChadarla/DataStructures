@@ -7,13 +7,11 @@ class Solution {
 			if(map.containsKey(target-arr[start])) {
 				ans[0]=start;
 				ans[1]=map.get(target-arr[start]);
-				System.out.println(Arrays.toString(ans));
 				return ans;
 			}
 			map.put(arr[start],start);
 			start++;
 		}
-		System.out.println(Arrays.toString(ans));
 		return ans;
     }
 }
