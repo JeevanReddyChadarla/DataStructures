@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
