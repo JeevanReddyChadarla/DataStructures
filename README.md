@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0189-rotate-array) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
