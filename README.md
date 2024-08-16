@@ -46,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0620-not-boring-movies) |
+| [1541-top-travellers](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/1541-top-travellers) |
 <!---LeetCode Topics End-->
