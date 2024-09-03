@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -57,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/1541-top-travellers) |
 | [1827-invalid-tweets](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/1908-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
