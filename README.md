@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0387-first-unique-character-in-a-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0713-subarray-product-less-than-k) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
