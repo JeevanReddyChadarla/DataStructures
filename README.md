@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
