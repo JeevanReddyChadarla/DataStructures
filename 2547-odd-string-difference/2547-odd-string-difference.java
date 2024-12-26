@@ -29,9 +29,6 @@ class Solution {
                 break;
             }
         }
-        System.out.println(map);
-        System.out.println(index);
-        System.out.println(ans);
         return words[ans];
     }
 }
