@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0349-intersection-of-two-arrays) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
