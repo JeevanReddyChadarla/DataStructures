@@ -12,7 +12,6 @@ class Solution {
             j++;
             ans = Math.max(ans, sum);
         }
-        System.out.println(ans);
         return (double)ans/k;
     }
 }
