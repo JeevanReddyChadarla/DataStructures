@@ -9,7 +9,6 @@ class Solution {
         HashMap<Character, Integer>sample = new HashMap<>(map);
         start=0;
         end=s2.length()-1;
-        System.out.println(sample);
         while(start<=end-i+1){
             for(int j=start; j<start+i;j++){
                 if(sample.containsKey(s2.charAt(j))){
