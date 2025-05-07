@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0567-permutation-in-string) |
 | [2547-odd-string-difference](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/2547-odd-string-difference) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2547-odd-string-difference](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/2547-odd-string-difference) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
