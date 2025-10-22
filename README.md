@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/0792-binary-search) |
+| [1603-running-sum-of-1d-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/1791-richest-customer-wealth) |
 | [2547-odd-string-difference](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/2547-odd-string-difference) |
 ## Hash Table
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/1791-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/JeevanReddyChadarla/DataStructures/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
